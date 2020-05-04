@@ -8,7 +8,7 @@ Author: A.Miyabara
 Author URI: 
 */
 .header_title {
-    width: 400px;
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
 	margin-top: 40px;
@@ -25,7 +25,7 @@ a {
 .news_title,
 .news_desc,
 .news_meta {
-	font-family: 'Noto Serif JP', serif;
+	font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
 }
 
 .news_title {
